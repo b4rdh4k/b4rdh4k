@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 >Çkemi!!! ༼ つ ◕_◕ ༽つ</h2>
+<h3>Welcome to me profile :3<h3>
+<p>🌞 My pronouns are she/her<br>
+🩷 As of right now, I'm a Compsci uni student <br>
+🌟 Outside of school, I'm currently learning and developing with .NET, NodeJS and React<br>
+🫧 In my day2day life and at peak procrastination hours, moi is also a sitcom connoisseur
+<h6>bb, stalk away :p</h6>
 
 <!--
 **b4rdh4k/b4rdh4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
