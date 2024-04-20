@@ -1,7 +1,7 @@
 <h2 >Çkemi!!! ༼ つ ◕_◕ ༽つ</h2>
 <h3>Welcome to me profile :3<h3>
 <p>🌞 My pronouns are she/her<br>
-🩷 As of right now, I'm a Compsci uni student <br>
+🩷 As of right now, I'm a Computer Science and Engieering, second year uni student <br>
 🌟 Outside of school, I'm currently learning and developing with .NET, NodeJS and React<br>
 🫧 In my day2day life and at peak procrastination hours, moi is also a sitcom connoisseur
 <h6>bb, stalk away :p</h6>
