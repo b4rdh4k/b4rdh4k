@@ -4,6 +4,12 @@
 🩷 As of right now, I'm a Computer Science and Engieering, second year uni student <br>
 🌟 Outside of school, I'm currently learning and developing with .NET, NodeJS and React<br>
 🫧 In my day2day life and at peak procrastination hours, moi is also a sitcom connoisseur
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,cs,dotnet,java,nodejs,mysql,)](https://skillicons.dev)
+## Used
+[![My Skills](https://skillicons.dev/icons?i=figma,git,kali,postman,visualstudio,vscode,sublime)](https://skillicons.dev)
+ <!-- ![b4rdh4k's Stats](https://github-readme-stats.vercel.app/api?username=b4rdh4k&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 <h6>bb, stalk away :p</h6>
 
 <!--
